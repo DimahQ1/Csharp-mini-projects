@@ -1,0 +1,15 @@
+D:\Projects\C#\Guessing-name-game\bin\Debug\net9.0\Guessing-name-game.exe
+D:\Projects\C#\Guessing-name-game\bin\Debug\net9.0\Guessing-name-game.deps.json
+D:\Projects\C#\Guessing-name-game\bin\Debug\net9.0\Guessing-name-game.runtimeconfig.json
+D:\Projects\C#\Guessing-name-game\bin\Debug\net9.0\Guessing-name-game.dll
+D:\Projects\C#\Guessing-name-game\bin\Debug\net9.0\Guessing-name-game.pdb
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.AssemblyInfoInputs.cache
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.AssemblyInfo.cs
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.sourcelink.json
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.dll
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\refint\Guessing-name-game.dll
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.pdb
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\Guessing-name-game.genruntimeconfig.cache
+D:\Projects\C#\Guessing-name-game\obj\Debug\net9.0\ref\Guessing-name-game.dll
